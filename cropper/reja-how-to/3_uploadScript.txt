@@ -1,0 +1,8 @@
+<?php
+$file = $_POST['gambar'];
+$file = file_get_contents($file);
+$path_and_filename = base_path('public/adm/IMG_'.date('Ymdhis').".png");
+file_put_contents($path_and_filename,$file);
+// Showing Test Result
+echo "<img src='$pos->gambar'>";
+ ?>

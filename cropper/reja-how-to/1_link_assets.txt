@@ -1,0 +1,23 @@
+<!-- CSS LINK -->
+  <!-- cropper -->
+  <link rel="stylesheet" href="cropper/bower_components/cropper/dist/cropper.min.css">
+  <!-- uikit -->
+  <link rel="stylesheet" href="cropper/bower_components/uikit/css/uikit.almost-flat.min.css" media="all">
+  <!-- altair admin -->
+  <link rel="stylesheet" href="cropper/assets/css/main.min.css" media="all">
+<!-- END CSS LINK -->
+
+
+<!-- SCRIPT LINK -->
+  <!-- common functions -->
+  <script src="cropper/assets/js/common.min.js"></script>
+  <!-- uikit functions -->
+  <script src="cropper/assets/js/uikit_custom.min.js"></script>
+  <!-- altair common functions/helpers -->
+  <script src="cropper/assets/js/altair_admin_common.min.js"></script>
+  <!-- page specific plugins -->
+  <!-- cropper -->
+  <script src="cropper/bower_components/cropper/dist/cropper.min.js"></script>
+  <!--  image cropper functions -->
+  <script src="cropper/assets/js/pages/plugins_image_cropper.js"></script>
+<!-- END SCRIPT LINK -->
