@@ -6,4 +6,4 @@ Crop image with resolution, translate, size, many tools, and upload script from 
 <img src="cropper/reja-how-to/example-2.jpg" alt="">
 <hr>
 Thankyou! <br>
-telp / Whatsapp : (+62)85222220610
+telp / Whatsapp : (+62)857 66666 393
